@@ -1,0 +1,8 @@
+[
+    { "_id":"1", "name":"Angular", "category":"Front-end" },
+    { "_id":"2", "name":"Java", "category":"Back-end" },
+    { "_id":"3", "name":"JavaScript", "category":"Front-end" },
+    { "_id":"4", "name":"Excel", "category":"Office" },
+    { "_id":"5", "name":"Word", "category":"Office" },
+    { "_id":"6", "name":"Linux", "category":"Sistemas" }
+]
